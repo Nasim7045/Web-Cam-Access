@@ -8,8 +8,7 @@ This repository contains an **encrypted** payload stored in a password-protected
 ### 1️⃣ **Download the Encrypted File**  
 Clone the repository and navigate to the directory:  
 ```bash
-git clone <your-private-repo-url>
-cd <your-repo-name>
+git clone <repo-name>
 2️⃣ Extract the Encrypted File
 Use the following command to decrypt and extract the payload:
 
